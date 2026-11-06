@@ -1,0 +1,16 @@
+train: train
+val: val
+nc: 2
+names:
+    0: Airplane
+    1: Car
+
+categories:
+  - id: 0
+    name: Airplane
+  - id: 1
+    name: Car
+info:
+  year: 2026
+  version: '1.0'
+  contributor: Label Studio
